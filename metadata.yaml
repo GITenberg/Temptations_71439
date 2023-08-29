@@ -5,6 +5,9 @@ contributor:
     agent_name: Goldberg, Dr. Isaac
     gutenberg_agent_id: '56235'
     url: http://www.gutenberg.org/2009/agents/56235
+covers:
+- cover_type: archival
+  image_path: 71439-h/images/cover.jpg
 creator:
   author:
     agent_name: Pinski, David
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/39171
     wikipedia: https://en.wikipedia.org/wiki/David_Pinski
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71439#Temptations
 gutenberg_issued: '2023-08-18'
 identifiers:
   gutenberg: '71439'
